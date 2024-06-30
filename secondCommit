@@ -1,0 +1,11 @@
+print("After some time spent on playing with setting up my environment, I've managed to commit my first file! wow!")
+
+print("It's time for some coding: ")
+
+a = int(input("Enter the side of the square: "))
+
+squareArea = (a * a)
+
+print(squareArea)
+
+print("Amazing code, isn't it? My grandma has a birthday today, so it's time to go.")
