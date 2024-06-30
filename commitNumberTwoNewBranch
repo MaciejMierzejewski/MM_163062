@@ -1,0 +1,11 @@
+print("It's boiling outside! ")
+
+print("I am afraid I am going to melt soon...")
+
+
+hello = input("Hello, it's very hot outside. Are you fancy drinking something cold?")
+
+if hello == "no":
+    print("No problem your loss.")
+else:
+    print("Here! Your ice-cold drink. Take a sip, please. :) ")
